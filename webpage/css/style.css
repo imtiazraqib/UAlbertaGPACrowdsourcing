@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Poppins&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding {
+    padding-bottom: 2rem;
+}
+
+.header {
+    font-family: "Playfair Display", serif;
+    padding-top: 1rem;
+
+}
+
+
+
+
+
+/* Media Queries for various window sizes */
+@media (max-width: 992px) {
+}
+
+@media (max-width: 768px) {
+    
+    .header {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 576px) {
+}
