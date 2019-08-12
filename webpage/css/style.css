@@ -32,4 +32,8 @@ html, body {
 }
 
 @media (max-width: 576px) {
+
+    #articleTable {
+        width: 50%;
+    }
 }
